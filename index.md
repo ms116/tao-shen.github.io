@@ -1,5 +1,6 @@
-本文由论文Advances and Open Problems in Federated Learning整理，
-感谢@open-intelligence的翻译工作，持续更新。。。
+本文根据论文Advances and Open Problems in Federated Learning整理，
+感谢@open-intelligence https://github.com/open-intelligence/federated-learning-chinese的翻译工作，
+本文将持续更新。。。
 
 # 联邦学习FAQ
 
